@@ -1,0 +1,25 @@
+    header{
+        text-align: center;
+        background-color: rgb(87, 45, 121);
+        font-family: cursive;
+        font-size: 30px;
+    
+    }
+    
+    h4{
+        text-align: center;
+        font-weight: bold;
+    }
+    
+
+    div{
+      padding: 5%;
+      text-align: center;
+     font-family: cursive;
+     background-color: rgb(153, 136, 201);
+
+    }
+
+    h1{
+        text-align: center;
+    }
